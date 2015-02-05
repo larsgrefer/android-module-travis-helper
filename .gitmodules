@@ -1,3 +1,0 @@
-[submodule "gradle"]
-	path = gradle
-	url = https://android.googlesource.com/platform/tools/gradle
